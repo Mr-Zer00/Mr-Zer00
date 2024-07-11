@@ -15,7 +15,8 @@
 	            )_/         \ IIIIII /                       	
 	           (@            --------
                		
-									
+
+------------------------------------------------------------------------------------------								
 root@kali:~$ whoami
 An enigmatic coder, a digital ghost, navigating the labyrinths of cyberspace.
 
@@ -24,26 +25,21 @@ Crafting code spells, breaking chains of convention, and forging new paths in th
 
 root@kali:~$ arsenal
 The digital arsenal:
-- Python, JavaScript, C++
+- Python, Ruby, C++
 - Bash, PowerShell
 - Linux, Windows
-- Git, Docker, Kubernetes
+- Nmap, Burp Suite, Wireshark, Metasploit, RAT
 
 root@kali:~$ projects
 My dark creations:
-- [Project X](https://github.com/Mr-Zer00/project-x): An AI that predicts the future.
-- [Project Y](https://github.com/Mr-Zer00/project-y): A tool that deciphers encrypted messages.
-- [Project Z](https://github.com/Mr-Zer00/project-z): A decentralized platform for secure communication.
+- To be implemented
 
 root@kali:~$ collaborate
 Together, we can bend the matrix and rewrite the rules.
-Reach out if you dare:
-- Email: zer00.coder@darknetmail.com
-- LinkedIn: [Mr-Zer00](https://www.linkedin.com/in/mr-zer00/)
-- Twitter: [@zer00](https://twitter.com/zer00)
 
 root@kali:~$ echo "Stay curious, stay daring, stay free."
----------------------------------------------
+
+------------------------------------------------------------------------------------------
 
 \033[0m
 
